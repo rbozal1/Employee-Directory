@@ -1,7 +1,7 @@
 # Unit 19 React Homework: Employee Directory
 
 ## Overview
-I created a employee directory with React. I created component state, and respond to user events.
+I created a employee directory with React. I used component state, and respond to user events.
 
 ## User Story
 

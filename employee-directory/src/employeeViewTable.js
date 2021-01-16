@@ -7,6 +7,7 @@ const Table = ({ users }) => {
 
   return (
     <div>
+     <div className="text-center">
       <table className="table">
         <thead>
           <tr>
@@ -79,6 +80,7 @@ const Table = ({ users }) => {
           )}
         </tbody>
       </table>
+      </div> 
     </div>
   );
 };

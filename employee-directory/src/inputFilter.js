@@ -16,7 +16,12 @@ const FilterInput = ({ users, updateUsers }) => {
   }, [inputValue, users]);
 
   return (
+    <form>
+      <div className="form-group">
+        <label htmlFor="search">Search:</label>
     <input value={inputValue} onChange={e => updateInput(e.target.value)} />
+    </div>
+    </form>
   );
 };
 

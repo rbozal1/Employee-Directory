@@ -1,4 +1,5 @@
 # Unit 19 React Homework: Employee Directory
+![License](https://img.shields.io/badge/License-APACHE2.0-blue.svg)<br />
 
 ![image](https://user-images.githubusercontent.com/49447293/104794809-1d0cc400-5778-11eb-8a04-dbb245cc6f84.png)
 
